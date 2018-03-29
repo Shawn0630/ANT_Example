@@ -1,1 +1,1 @@
-# ANT_Templates
+# Java Application Starter Project
